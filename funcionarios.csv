@@ -1,0 +1,31 @@
+﻿funcionario_id,nome,cargo,turno_padrao,data_admissao,avaliacao_desempenho
+1,Ana,Atendente,Noite,2023-10-22,4.0
+2,Bruno,Cozinha,Noite,2024-10-28,3.7
+3,Carla,Cozinha,Noite,2024-08-19,4.3
+4,Diego,Cozinha,Tarde,2024-01-08,3.2
+5,Elaine,Cozinha,Manhã,2025-11-27,4.3
+6,Fábio,Atendente,Tarde,2024-02-24,3.9
+7,Gabriela,Atendente,Noite,2024-04-22,4.0
+8,Hugo,Cozinha,Tarde,2024-06-11,3.3
+9,Isabela,Gerente de Turno,Tarde,2024-12-06,4.0
+10,João,Atendente,Noite,2024-09-27,4.4
+11,Karina,Atendente,Noite,2024-03-21,4.1
+12,Lucas,Líder de Turno,Manhã,2025-03-29,3.3
+13,Marina,Cozinha,Tarde,2025-02-03,4.1
+14,Nicolas,Atendente,Manhã,2024-08-07,4.1
+15,Otávio,Atendente,Tarde,2025-06-17,4.1
+16,Paula,Atendente,Manhã,2025-05-26,4.8
+17,Quésia,Atendente,Noite,2024-01-05,4.1
+18,Rafael,Atendente,Manhã,2024-07-08,4.5
+19,Sabrina,Líder de Turno,Tarde,2024-12-27,3.1
+20,Tiago,Cozinha,Noite,2025-08-31,3.5
+21,Ursula,Atendente,Manhã,2024-10-09,4.5
+22,Vinícius,Líder de Turno,Tarde,2025-02-07,3.2
+23,Wesley,Líder de Turno,Tarde,2024-12-27,4.6
+24,Yasmin,Cozinha,Tarde,2024-06-10,4.6
+25,Zeca,Atendente,Manhã,2024-02-12,4.9
+26,Aline,Atendente,Tarde,2024-04-12,3.9
+27,Bernardo,Cozinha,Noite,2024-05-27,4.3
+28,Camila,Atendente,Manhã,2024-03-10,3.3
+29,Douglas,Atendente,Noite,2024-05-09,3.9
+30,Eduarda,Atendente,Tarde,2024-06-24,3.7
